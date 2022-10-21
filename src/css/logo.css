@@ -1,0 +1,20 @@
+.logo-container {
+  align-items: center;
+  background-color: var(--primary);
+  display: flex;
+  height: 4em;
+  justify-content: center;
+  width: 4em;
+  transition: 500ms;
+}
+
+.logo-container:hover {
+  background-color: black;
+  color: white;
+}
+
+.logo-text {
+  font-size: 1.2em;
+  font-weight: 800;
+  margin: 0;
+}
