@@ -1,0 +1,16 @@
+.minimalist-avatar {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.introduction-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.introduction {
+  font-weight: 600;
+  letter-spacing: 1px;
+  width: 240px;
+}
