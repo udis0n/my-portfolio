@@ -1,0 +1,47 @@
+.menu {
+  background-color: var(--whitesmoke-opacity);
+  bottom: -20px;
+  display: flex;
+  height: 100vh;
+  justify-content: left;
+  left: -20px;
+  position: absolute;
+  right: -20px;
+  top: -20px;
+}
+
+.menu-button {
+  align-items: center;
+  background-color: var(--primary);
+  border: none;
+  cursor: pointer;
+  display: flex;
+  height: 4rem;
+  justify-content: center;
+  width: 4rem;
+}
+
+nav {
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  padding-top: 80px;
+  width: 55%;
+}
+
+.menu-option {
+  letter-spacing: 1px;
+  padding-left: 20px;
+  padding: 10px 0 10px 20px;
+}
+
+.menu-option:hover {
+  background-color: black;
+  color: white;
+}
+
+.menu-open {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
