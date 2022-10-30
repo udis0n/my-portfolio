@@ -18,4 +18,6 @@ code {
 
 :root {
   --primary: hsl(65,100%,50%);
+
+  --whitesmoke-opacity: hsla(0, 0%, 96%, 0.5);
 }
