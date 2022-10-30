@@ -6,6 +6,7 @@
   justify-content: center;
   width: 4em;
   transition: 500ms;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .logo-container:hover {
